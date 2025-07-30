@@ -1,7 +1,7 @@
 # mforage_learn-transfer_task-switch
 Code to run the behavioural task from **Contextual clarity during training hinders learning transfer but spares task switching**
 
-Kelly Garner, 2024
+Kelly Garner, 2024  
 This repository contains the software written to collect the behavioural data from the above mentioned project.
 
 Dependencies are listed in the notes in the code.
